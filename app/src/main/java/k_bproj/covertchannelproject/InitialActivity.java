@@ -10,4 +10,5 @@ public class InitialActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_initial);
     }
+    // new line as test of android studio
 }
